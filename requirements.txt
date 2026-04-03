@@ -1,4 +1,11 @@
-import requests
-import json
-import random
-import string
+# Librerías principales para automatización y conexión
+requests==2.31.0
+instaloader==4.10.1
+
+# Manejo de sesiones y autenticación
+beautifulsoup4==4.12.2
+urllib3==2.2.1
+
+# Utilidades adicionales
+python-dotenv==1.0.1
+colorama==0.4.6
