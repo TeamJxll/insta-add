@@ -5,6 +5,11 @@
 # via any medium, is strictly prohibited without written permission.
 # ===============================================================
 
+import requests
+import jsona
+import random
+import string
+
 def PolyDev_InstaLikes():
     print("Script by Karim Elyamani - Unauthorized edits are prohibited.")
     instagram_link = input("Enter Instagram post URL: ")
