@@ -1,10 +1,3 @@
-# ===============================================================
-# Copyright (c) 2025 Karim Elyamani. All rights reserved.
-# This script is the intellectual property of Karim Elyamani.
-# Unauthorized copying, editing, or distribution of this code,
-# via any medium, is strictly prohibited without written permission.
-# ===============================================================
-
 import requests
 import jsona
 import random
